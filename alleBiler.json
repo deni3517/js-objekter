@@ -1,0 +1,17 @@
+[
+  {
+    "mærke": "Volvo",
+    "model": "Amazon",
+    "motor": "Benzin"
+  },
+  {
+    "mærke": "VW",
+    "model": "Polo",
+    "motor": "Diesel"
+  },
+  {
+    "mærke": "Tesla",
+    "model": "S",
+    "motor": "Diesel"
+  }
+]
