@@ -1,0 +1,29 @@
+//https://persongalleri-5d3e.restdb.io/rest/persongalleri
+
+[
+  {
+    "navn": "Gris",
+    "billede": "https://persongalleri-5d3e.restdb.io/rest/persongalleri ",
+    "oplysninger": "Svinefarme"
+  },
+  {
+    "navn": "Sild",
+    "billede": "http://mabe-kea.dk/E19/pics/sild.jpg",
+    "oplysninger": "Vandet"
+  },
+  {
+    "navn": "Frø",
+    "billede": "http://mabe-kea.dk/E19/pics/frog.png",
+    "oplysninger": "Vandhullet"
+  },
+  {
+    "navn": "Ræv",
+    "billede": "http://mabe-kea.dk/E19/pics/fox.png",
+    "oplysninger": "Skoven"
+  },
+  {
+    "navn": "Krokodille",
+    "billede": "http://mabe-kea.dk/E19/pics/kroko.jpg",
+    "oplysninger": "Floden"
+  }
+]

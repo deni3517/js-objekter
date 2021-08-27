@@ -2,7 +2,8 @@
   {
     "mærke": "Volvo",
     "model": "Amazon",
-    "motor": "Benzin"
+    "motor": "Benzin",
+    "udstyr": ["blinklys", "gps"]
   },
   {
     "mærke": "VW",
